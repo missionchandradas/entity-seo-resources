@@ -22,15 +22,14 @@ Entity SEO focuses on clearly identifying and describing people, organizations, 
 - Website Entity Optimization
 - On-page and Technical SEO
 
+
 ## Resources
 
-This repository will include:
-
-1. Introduction to Entity SEO
-2. Person Schema Markup Examples
-3. Personal Website Entity SEO Checklist
-4. Google Knowledge Panel Fundamentals
-
+1. [Introduction to Entity SEO](introduction-to-entity-seo.md)
+2. Person Schema Markup Examples (Coming Soon)
+3. Personal Website Entity SEO Checklist (Coming Soon)
+4. Google Knowledge Panel Fundamentals (Coming Soon)
+  
 ## About the Author
 
 Mission Chandra Das is a Bangladeshi digital entrepreneur and digital marketing professional specializing in Entity SEO, Google Knowledge Panels, Personal Branding, and Digital Authority Building.
